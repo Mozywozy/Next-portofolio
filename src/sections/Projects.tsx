@@ -61,7 +61,7 @@ export const ProjectsSection = () => {
           Featured Project
         </h2>
         <p className="text-center text-white/60 mt-4 md:text-lg max-w-md mx-auto lg:text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing.
+          About the results of the work project that I made
         </p>
         <div className="md:mt-20 flex flex-col mt-10 gap-20 ">
           {portfolioProjects.map((project) => (
