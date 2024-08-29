@@ -31,7 +31,7 @@ const portfolioProjects = [
       { title: "Optimized Landing Page for Digital Library" },
       { title: "Innovative Digital Library Landing Page" },
     ],
-    link: "https://github.com/Mozywozy/Lidia-Page",
+    link: "https://lidia-page.vercel.app/",
     image: lidiaPage,
   },
   {
@@ -43,7 +43,7 @@ const portfolioProjects = [
       { title: "Interactive Disney Replica Website" },
       { title: "Engaging Disney Clone with Enhanced Features" },
     ],
-    link: "https://lidia-page.vercel.app/",
+    link: "https://disney-clone-one-liart.vercel.app/",
     image: disneyClone,
   },
 ];
